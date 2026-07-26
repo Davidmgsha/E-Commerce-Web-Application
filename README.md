@@ -43,3 +43,11 @@ The prototype demonstrates the core functionality expected in a modern e-commerc
 - Consistent Design System
 - Modern UI Components
 - User-Friendly Navigation
+
+Technologies Used:
+- Figma
+- Auto Layout
+- Components and Variants
+- Interactive Prototyping
+- Design System
+- GitHub
