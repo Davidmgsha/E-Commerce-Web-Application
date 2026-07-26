@@ -11,3 +11,16 @@ Team Members and Contributions
 Team Member	Contribution:
 - David	Designed the authentication flow (Login, Sign Up, Forgot Password), Home page, Product Catalogue, Product Details, reusable UI components, colour system, typography, and responsive layout structure.
 - Joshua	Designed the Shopping Cart, Checkout, Payment, Order Confirmation, User Profile, Order Tracking, interactive prototype connections, user flow validation, and overall design consistency across the application.
+
+Design Decisions
+The following design decisions were made to improve usability and create a modern e-commerce experience:
+- Adopted a clean and minimalist interface to reduce visual clutter.
+- Used a consistent colour palette, typography, spacing, and iconography throughout the application.
+- Designed reusable UI components to maintain consistency across all pages.
+- Applied a clear visual hierarchy to help users quickly identify important information.
+- Simplified navigation to minimise the number of steps required to complete a purchase.
+- Designed an intuitive shopping journey from browsing products to checkout.
+- Used responsive layouts to ensure compatibility across different screen sizes.
+- Included clear call-to-action buttons to improve user interaction.
+- Applied accessibility principles such as readable typography, sufficient colour contrast, and consistent spacing.
+- Created interactive Figma prototypes to simulate realistic user interactions and navigation.
