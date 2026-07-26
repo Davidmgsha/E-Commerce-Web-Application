@@ -54,8 +54,8 @@ Technologies Used:
 - Design System
 - GitHub
 
-Figma Link:
-https://www.figma.com/proto/9cqJNsZhdF3qLGn102B9nU/EBM?node-id=1355-15361&p=f&t=KfDWwjxDXvxOzllu-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1355%3A7321
-
 Project Status:
 - The UI/UX design and interactive prototype have been completed and prepared for academic evaluation.
+
+Figma Link:
+https://www.figma.com/proto/9cqJNsZhdF3qLGn102B9nU/EBM?node-id=1355-15361&p=f&t=KfDWwjxDXvxOzllu-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1355%3A7321
