@@ -24,3 +24,22 @@ The following design decisions were made to improve usability and create a moder
 - Included clear call-to-action buttons to improve user interaction.
 - Applied accessibility principles such as readable typography, sufficient colour contrast, and consistent spacing.
 - Created interactive Figma prototypes to simulate realistic user interactions and navigation.
+
+Key Features
+The prototype demonstrates the core functionality expected in a modern e-commerce platform, including:
+- User Registration and Login
+- Secure Authentication
+- Home Dashboard
+- Product Catalogue
+- Product Categories
+- Product Search
+- Checkout Process
+- Payment Interface
+- Order Confirmation
+- Order Tracking
+- User Profile Management
+- Responsive User Interface
+- Interactive Figma Prototype
+- Consistent Design System
+- Modern UI Components
+- User-Friendly Navigation
